@@ -17,6 +17,4 @@ function draw() {
   strokeWeight(7)
   line(0,0,100,0)
   translate(200,200)
-  
- 
 }
